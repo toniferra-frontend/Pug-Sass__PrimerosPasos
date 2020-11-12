@@ -1,0 +1,24 @@
+// ABSTRACT
+@import 'abstract/variables';
+@import 'abstract/functions';
+@import 'abstract/mixins';
+
+// BASE
+@import 'base/reset';
+@import 'base/tipografia';
+
+// COMPONENTS
+@import 'components/botones';
+
+// LAYOUT
+@import 'layout/footer';
+@import 'layout/forms';
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/navegador';
+@import 'layout/sidebar';
+
+// PAGES
+@import 'pages/blog';
+@import 'pages/galeria';
+@import 'pages/index';
